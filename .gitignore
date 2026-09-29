@@ -1,0 +1,12 @@
+# Local font downloads (install separately; not redistributed).
+*.ttf
+*.otf
+*.zip
+
+# Editor and local working files.
+.vscode/
+.idea/
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
